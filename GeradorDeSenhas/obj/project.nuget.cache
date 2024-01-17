@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "0uKhMlJePq5I8lE8DaRU+Vom5jzOfXhI4C44NWIUKxo8u8l88ZsUF7vHtAv87kUMFp7qMB3mj2ueRxXKHxOnNQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\joaov\\Desktop\\Projetos\\GeradorDeSenhas\\GeradorDeSenhas\\GeradorDeSenhas.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\joaov\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\joaov\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\joaov\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.14\\microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\joaov\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.14\\microsoft.netcore.app.host.win-x64.7.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}

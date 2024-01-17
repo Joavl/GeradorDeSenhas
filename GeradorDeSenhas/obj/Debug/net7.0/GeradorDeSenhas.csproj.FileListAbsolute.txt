@@ -1,0 +1,14 @@
+C:\Users\joaov\Desktop\Projetos\GeradorDeSenhas\GeradorDeSenhas\bin\Debug\net7.0\GeradorDeSenhas.exe
+C:\Users\joaov\Desktop\Projetos\GeradorDeSenhas\GeradorDeSenhas\bin\Debug\net7.0\GeradorDeSenhas.deps.json
+C:\Users\joaov\Desktop\Projetos\GeradorDeSenhas\GeradorDeSenhas\bin\Debug\net7.0\GeradorDeSenhas.runtimeconfig.json
+C:\Users\joaov\Desktop\Projetos\GeradorDeSenhas\GeradorDeSenhas\bin\Debug\net7.0\GeradorDeSenhas.dll
+C:\Users\joaov\Desktop\Projetos\GeradorDeSenhas\GeradorDeSenhas\bin\Debug\net7.0\GeradorDeSenhas.pdb
+C:\Users\joaov\Desktop\Projetos\GeradorDeSenhas\GeradorDeSenhas\obj\Debug\net7.0\GeradorDeSenhas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaov\Desktop\Projetos\GeradorDeSenhas\GeradorDeSenhas\obj\Debug\net7.0\GeradorDeSenhas.AssemblyInfoInputs.cache
+C:\Users\joaov\Desktop\Projetos\GeradorDeSenhas\GeradorDeSenhas\obj\Debug\net7.0\GeradorDeSenhas.AssemblyInfo.cs
+C:\Users\joaov\Desktop\Projetos\GeradorDeSenhas\GeradorDeSenhas\obj\Debug\net7.0\GeradorDeSenhas.csproj.CoreCompileInputs.cache
+C:\Users\joaov\Desktop\Projetos\GeradorDeSenhas\GeradorDeSenhas\obj\Debug\net7.0\GeradorDeSenhas.dll
+C:\Users\joaov\Desktop\Projetos\GeradorDeSenhas\GeradorDeSenhas\obj\Debug\net7.0\refint\GeradorDeSenhas.dll
+C:\Users\joaov\Desktop\Projetos\GeradorDeSenhas\GeradorDeSenhas\obj\Debug\net7.0\GeradorDeSenhas.pdb
+C:\Users\joaov\Desktop\Projetos\GeradorDeSenhas\GeradorDeSenhas\obj\Debug\net7.0\GeradorDeSenhas.genruntimeconfig.cache
+C:\Users\joaov\Desktop\Projetos\GeradorDeSenhas\GeradorDeSenhas\obj\Debug\net7.0\ref\GeradorDeSenhas.dll
